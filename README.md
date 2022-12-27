@@ -1,3 +1,6 @@
+Buzzle - A Social Network. 
+Let's users post "Buzz" and also Edit and Delete them. Includes Comment section under each buzz and opens the Main Wall after registering as a User
+
 Tech used: JavaScript, React.js, Next.js, Tailwind CSS, Firebase for Authentication and DataBase
 
 
